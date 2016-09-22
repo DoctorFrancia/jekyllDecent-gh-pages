@@ -12,3 +12,4 @@ tags:              Jekyll Content Demo
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![]({{site.baseurl}}/)![]({{site.baseurl}}/_posts/IMG-20160822-WA0004%20(1).jpg)![IMG-20160822-WA0004 (1).jpg]({{site.baseurl}}/_posts/IMG-20160822-WA0004 (1).jpg)
