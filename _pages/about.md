@@ -1,12 +1,12 @@
 ---
-layout:    about
+title: About Jens Willmer
 permalink: "/about/"
-author:    jwillmer
-keywords:  about person demo example
-title:     About Jens Willmer
+layout: about
+author: jwillmer
+keywords: about person demo example
 menutitle: About
-weight:    90
-excerpt:   This page contains the curriculum vitae (CV) of the author.
+weight: 90
+excerpt: This page contains the curriculum vitae (CV) of the author.
 ---
 
 ## Profile

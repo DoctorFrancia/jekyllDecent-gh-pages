@@ -1,6 +1,8 @@
 ---
-published: true
+title: Prueba Post
+date: 2016-09-06 00:00:00 Z
 ---
+
 ![Tigre](http://i.imgur.com/kMVE3is.jpg)
 ## A New Post
 
